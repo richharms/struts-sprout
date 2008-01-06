@@ -1,0 +1,3 @@
+#summary Changes made to Struts Sprout since the last release.
+
+  * AnnotationsForActionsAndForms
