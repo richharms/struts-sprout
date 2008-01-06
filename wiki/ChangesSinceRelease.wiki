@@ -1,3 +1,4 @@
 #summary Changes made to Struts Sprout since the last release.
 
   * AnnotationsForActionsAndForms
+  * Upgrade to Spring 2.5
