@@ -2,3 +2,5 @@
 
   * AnnotationsForActionsAndForms
   * Upgrade to Spring 2.5
+
+This code is available by using Subversion to check out the source code.
