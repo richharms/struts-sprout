@@ -1,0 +1,1 @@
+These changes are available by using Subversion to check out the source code.
